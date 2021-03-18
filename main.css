@@ -20,17 +20,17 @@ body{
 }
 .carousel-image-1{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), 
-    url('hero-image.JPG');
+    url('hero-image.jpg');
     background-size: cover;
 }
 .carousel-image-2{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('image9.JPG');
+     url('image9.jpg');
     background-size: cover;
 }
 .carousel-image-3{
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('image1.JPG');
+     url('image1.jpg');
     background-size: cover;
 }
 .h-color{
